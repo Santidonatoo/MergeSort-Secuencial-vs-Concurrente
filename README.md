@@ -1,18 +1,11 @@
-## Getting Started
+## Análisis Comparativo: Algoritmo MergeSort Secuencial vs Concurrente
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A continuación, se presenta un proyecto en el que se muestra la comparación del algoritmo de ordenamiendo "MergeSort" en su versión secuencial y concurrente.
 
-## Folder Structure
+Todo el análisis comparativo detallado se hizo bajo normas APA7 y se encuentra en el siguiente informe: [Informe](https://drive.google.com/file/d/1879ZxrYZeic9EzOQMMUWJJI_6NmclLlw/view?usp=sharing)
 
-The workspace contains two folders by default, where:
+Fue realizado como Trabajo Práctico Final de la materia Programación Concurrente de la carrera Licenciatura en Sistemas de la Universidad Nacional de Lanús. El mismo fue calificado con un 10 (Diez). 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Pasos para usar el código
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Para su uso, lo único que se debe hacer es bajar todas las carpetas que se encuentran en el repositorio y ejecutarlo en el editor de código que usen. Allí se encontrarán con todas las pruebas que se realizaron y se especificaron en el informe.
